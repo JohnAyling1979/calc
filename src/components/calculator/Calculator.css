@@ -1,0 +1,13 @@
+.calculator {
+    background-color: brown;
+    max-width: 300px;
+    margin: 16px auto;
+    padding: 16px;
+    border-radius: 10px;
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 4px;
+    margin-top: 4px;
+}

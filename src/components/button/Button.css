@@ -1,0 +1,7 @@
+.button {
+    padding: 4px;
+    background-color: chocolate;
+    border-color: coral;
+    text-align: center;
+    flex: 1;
+}
